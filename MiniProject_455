@@ -42,22 +42,22 @@ int main() {
 
 INPUT/OUTPUT
 
-Enter your guess: 51
-Output : Welcome to the Number Guessing Game!
+Welcome to the Number Guessing Game!
 Guess the number between 1 and 100
-Enter your guess: Too high! Try again.
+Enter your guess:51 
+Too high! Try again.
 
+Welcome to the Number Guessing Game!
+Guess the number between 1 and 100
 Enter your guess: 50
-Output:Welcome to the Number Guessing Game!
-Guess the number between 1 and 100
-Enter your guess: Too low! Try again.
+Too low! Try again.
 
+output: Welcome to the Number Guessing Game!
+Guess the number between 1 and 100
 Enter your guess: 90
-output: Welcome to the Number Guessing Game!
-Guess the number between 1 and 100
-Enter your guess: Too high! Try again.
+Too high! Try again.
 
-Enter your guess: 22
 output: Welcome to the Number Guessing Game!
 Guess the number between 1 and 100
-Enter your guess: Too low! Try again.
+Enter your guess: 21
+Too low! Try again.
